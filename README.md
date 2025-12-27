@@ -10,7 +10,7 @@ DAX (Data Analysis Expressions for complex measures)
 
 Data Modeling (Star Schema)
 
-1. 🏅 Olympic Games 2025 Analysis
+### 1. 🏅 Olympic Games 2025 Analysis
 Domain: Sports Analytics
 
 This comprehensive dashboard provides a historical and current analysis of the Olympic Games. It features a custom navigation menu and deep dives into athlete performance and country rankings.
@@ -27,7 +27,7 @@ KPIs: dynamic tracking of Gold (752), Silver (760), and Bronze (814) medals.
 
 Insights: Analysis of top-performing countries (USA, France, China) and correlation between gender and medal distribution.
 
-2. 🍔 Zomato Business Insights
+### 2. 🍔 Zomato Business Insights
 Domain: E-Commerce / Food Delivery
 
 A strategic dashboard designed to analyze sales performance, customer ratings, and city-wise distribution for Zomato.
@@ -48,7 +48,7 @@ Top Performers: Ranking top cities (e.g., Tirupati, Electronic City) by sales vo
 
 Brand Theming: Custom UI design matching Zomato's brand color palette.
 
-3. 👥 HR Workforce & Attrition Analytics
+### 3. 👥 HR Workforce & Attrition Analytics
 Domain: Human Resources
 
 A Dark Mode dashboard focused on employee retention and workforce demographics to help HR departments identify attrition risks.
@@ -63,7 +63,7 @@ Risk Factors: Visualizing attrition by Education Field (Life Sciences, Medical),
 
 Job Role Impact: Identifying high-turnover roles (Laboratory Technicians, Sales Executives).
 
-4. 🎓 Student Dropout Analysis
+### 4. 🎓 Student Dropout Analysis
 Domain: Education Sector
 
 An analytical tool to understand the socio-economic and academic factors contributing to student dropout rates.
@@ -78,7 +78,7 @@ Academic stats: Average final grade (9.95) vs. Average study time.
 
 Technical Highlights: Complex data relationships connecting family background data with academic performance metrics.
 
-5. 💻 Operational Hit & Error Monitoring
+### 5. 💻 Operational Hit & Error Monitoring
 Domain: IT Operations / Server Monitoring
 
 An operational dashboard for monitoring system hits, location-based traffic, and error tracking in real-time.
