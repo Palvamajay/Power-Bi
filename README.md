@@ -100,6 +100,6 @@ Error Distribution: Pie chart visualization of specific error types and their fr
 📫 Contact Me
 If you find these dashboards interesting or have any questions about the implementation, feel free to connect!
 
-[LinkedIn Profile Link]
+## Linkedin: www.linkedin.com/in/palvam-ajay-16466a32b
 
-[Email Address]
+## Mail: palvamajay@gmail.com
